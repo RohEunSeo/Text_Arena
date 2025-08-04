@@ -29,3 +29,10 @@
 
 📄  [Notion 페이지](https://www.notion.so/239f6c4facd7807492d8c1cee7e9f017#242f6c4facd780cabddeccea21b7337b)
 
+
+## 👥 멤버
+
+| AI / Frontend | AI / Backend | AI / Backend |
+|:-------------:|:------------:|:------------:|
+| [<img src="https://avatars.githubusercontent.com/RohEunSeo" alt="RohEunSeo" style="width:100px;height:100px;">](https://github.com/RohEunSeo)<br/><div align="center">노은서</div> | [<img src="https://avatars.githubusercontent.com/use08174" alt="use08174" style="width:100px;height:100px;">](https://github.com/use08174)<br/><div align="center">심수민</div> | [<img src="https://avatars.githubusercontent.com/Ahhyeon430" alt="Ahhyeon430" style="width:100px;height:100px;">](https://github.com/Ahhyeon430)<br/><div align="center">정아현</div> |
+
