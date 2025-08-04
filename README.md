@@ -11,7 +11,6 @@ pip install -r requirements.txt
 FastAPI 서버를 아래 명령어로 실행합니다:
 
 ```bash
-cd ./back
 uvicorn app:app --reload
 ```
 
@@ -20,3 +19,4 @@ uvicorn app:app --reload
 1. VSCode에서 프로젝트 폴더 열기
 2. onboarding.html 파일 우클릭 → "Open with Live Server" 선택
 
+[6팀 판넬.pdf](https://github.com/user-attachments/files/21571019/6.pdf)
